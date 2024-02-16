@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.input-group-text{
+  margin-right: 0;
+  background-color: #FFFFFF !important;
+  margin-left: 20px !important;
+}
+#cost{
+  margin-left: 0 !important;
+}
+.currency{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.custom-select{
+  margin: 0 !important;
+}
